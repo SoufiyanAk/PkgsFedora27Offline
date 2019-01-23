@@ -1,0 +1,23 @@
+--------------------------------------------
+Title : packages fedora 27 offline installer
+Created by EBF LEARN | SOAK
+Date : 30-12-2018
+--------------------------------------------
+
+Pour installer les pakages fedora 27 offline utiliser le ficher install.py
+
+//////Methode d'utilisation\\\\\\
+
+ouvrir le terminal dans le dossier pkg
+su
+python install.py
+
+Et selectionnez le numero de package que vous souhaitez installer .
+
+Pour installer d'autre packages utiliser cette commande : 
+il permet de changer la direction d'installation pour les packages installer
+ 
+yum install --downloadonly --downloaddir=/home/path/path [package]
+
+Pour eviter les conflis entre les packages installer avec l'outils rpm 
+utilser l'options --force 
