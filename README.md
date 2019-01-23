@@ -10,9 +10,9 @@ Pour installer les pakages fedora 27 offline utiliser le ficher install.py
 
 <h2>Methode d'utilisation</h2>
 
-ouvrir le terminal dans le dossier pkg
-su
-python install.py
+ouvrir le terminal dans le dossier PkgsFedora27Offline <br />
+su <br />
+python install.py <br />
 
 Et selectionnez le numero de package que vous souhaitez installer .
 
