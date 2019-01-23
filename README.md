@@ -16,6 +16,8 @@ python install.py <br />
 
 Et selectionnez le numero de package que vous souhaitez installer .
 
+ <img src="https://www.gulf-up.com/9xmpuzutazn0" alt="fedora27" > 
+
 <h2>Pour installer d'autre packages</h2>
 
 Pour installer d'autre packages utiliser cette commande : 
